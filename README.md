@@ -1,11 +1,9 @@
 # ¡Hola, soy [MJ!] 👋
 
-- :mortar_board: Estudiante de **Desarrollo de Aplicaciones Multiplataforma.** 
+- :mortar_board: Estudiante de **Administración de Sistemas Informáticos en Red.** 
 
 ## Aprendiendo... :notebook_with_decorative_cover:
-- Programación en Python, JavaScript, Java y otros...
-- Uso de herramientas como Git, GitHub, VS Code, NetBeans, VirtualBox, Linux...
-
+- Enfocada en Cloud / AZURE...
 
 ## Proyectos :computer:
 - En breves...
